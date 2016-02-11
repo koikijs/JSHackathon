@@ -26,12 +26,19 @@
 - だいたい遅刻
 - 仕様決めて飯
 - はまりつつもReact書き始められるようになる。
-- taka66は終始HTML、CSS作成
+- taka66は終始HTML、CSS、アイコン作成
 
 ### Second Koiki
+渋谷
 - だいたい遅刻
 - 電源とWifi探しに翻弄
 - 電源タップを購入
-- taka66は終始HTML、CSS作成
+- taka66は終始HTML、CSS、アイコン作成
 
 ### Third Koiki
+二子玉　蔦屋家電
+- だいたい遅刻
+- 席探しに翻弄
+- taka66は終始HTML、CSS、アイコン作成
+- ninja-incは美人スナップ閲覧
+- sideroadはpotate復活に奮起
