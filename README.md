@@ -28,7 +28,7 @@
 - はまりつつもReact書き始められるようになる。
 - taka66は終始HTML、CSS、アイコン作成
 
-### Second Koiki
+### Second Koiki(12/29)
 渋谷
 - だいたい遅刻
 - 電源とWifi探しに翻弄
@@ -44,7 +44,7 @@
 - ninja-incは美人スナップ閲覧
 - sideroadはpotate復活に奮起
 
-### Forth Koiki
+### Forth Koiki(3/3)
 二子玉　蔦屋家電（平日夜開催）
 - 席探しに翻弄
 - taka66それがダメだったら僕はダメです
