@@ -48,7 +48,7 @@
 二子玉　蔦屋家電（平日夜開催）
 - 席探しに翻弄
 - taka66それがダメだったら僕はダメです
-- sideroadはrestful-api(chaus)を作る
+- sideroadはrestful-api-kit(chaus)を作る
 - ninja-incがCORS周りでハマる
 - nabnabはすごい進んだ
 - 飯はおしおでお好み焼き
