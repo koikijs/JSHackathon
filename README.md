@@ -19,7 +19,7 @@
 
 ## Minutes
 
-### First Koiki
+### First Koiki(12/21)
 上野
 １１時〜
 
@@ -36,7 +36,7 @@
 - taka66は終始HTML、CSS、アイコン作成
 - 飯はホルモン焼き肉
 
-### Third Koiki
+### Third Koiki(2/11)
 二子玉　蔦屋家電
 - だいたい遅刻
 - 席探しに翻弄
