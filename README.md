@@ -62,10 +62,8 @@
 
 ### Sixth Koiki(5/6)
 蔦屋家電（平日夜開催）
-- 
-- 
+- ninja-incとnabnabがCORS周りでハマる
+- 貝食べた
 
-## Seventh Koiki(5/7)
+### Seventh Koiki(5/7)
 高津　名渕家(休日開催)
-- 
-- 
