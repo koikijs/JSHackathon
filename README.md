@@ -75,3 +75,9 @@
 - 深いですね。本当の黒色は存在しない(by Iida)
 - あらゆる曲線はベジエ曲線で書ける
 - 僕は今日眠いです(Fuii)
+
+## Wishlist
+- Likyu. Chaus APIを隠蔽して、モデルといて扱えるJS ライブラリ
+- Chausのws版？
+- Koiki chat
+- イベント開催サポートするサービス(monstera)
