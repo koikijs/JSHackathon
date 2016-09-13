@@ -76,6 +76,12 @@
 - あらゆる曲線はベジエ曲線で書ける
 - 僕は今日眠いです(Fuii)
 
+### Ninth Koiki(6/18)
+蔦屋家電
+- 禅ハッカソン申し込み←ちょっと高い
+- karakuriにjsモード、shellモード搭載
+- karakuriのnab putの権限管理機能が追加
+
 ## Wishlist
 - Likyu. Chaus APIを隠蔽して、モデルといて扱えるJS ライブラリ
 - Chausのws版？
