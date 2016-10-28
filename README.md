@@ -88,7 +88,7 @@
 - Machine learning - watson
 - portfolio
 - IoT
-- Bot
+- karakuri
 - Chat system
 - chaus - API development
 - monstera - Event organizer
