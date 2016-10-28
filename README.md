@@ -83,7 +83,12 @@
 - karakuriのnab putの権限管理機能が追加
 
 ## Wishlist
-- Likyu. Chaus APIを隠蔽して、モデルといて扱えるJS ライブラリ
-- Chausのws版？
-- Koiki chat
-- イベント開催サポートするサービス(monstera)
+- amam
+- spot4u
+- Machine learning - watson
+- portfolio
+- IoT
+- Bot
+- Chat system
+- chaus - API development
+- monstera - Event organizer
