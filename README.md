@@ -82,6 +82,24 @@
 - karakuriにjsモード、shellモード搭載
 - karakuriのnab putの権限管理機能が追加
 
+### Tenth Koiki(9/30)
+禅ハック
+- will update
+
+### Eleventh Koiki(11/02-11/03)
+パセラ
+- will update
+
+### Twelfth Koiki(11/14)
+レンタルスペース
+- キャンディメルツ溶けない問題
+- スライム作成対応に追われる
+- NinjaがPythonに手を付け始める
+- Nabはmakeが終わらないと嘆く
+- 名渕議事録担当更迭
+- 名渕遅刻担当に就任
+
+
 ## Wishlist
 - amam
 - spot4u
