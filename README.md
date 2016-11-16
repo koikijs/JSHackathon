@@ -82,7 +82,7 @@
 - karakuriにjsモード、shellモード搭載
 - karakuriのnab putの権限管理機能が追加
 
-### Tenth Koiki(9/30)
+### Tenth Koiki(10/01-10/02)
 禅ハック
 - will update
 
