@@ -102,7 +102,24 @@
 ### Thirteenth(12/04)
 - 遅刻担当は遅刻。悪びれるそぶりもない。
 - Ninjaの移動スピードが早すぎて武蔵溝ノ口改札にて落ち合えず
-- @kojiroは寝てそう
+- @kojiroは寝てそう->寝てた
+- 朝ごはんはtokyo soup stock
+- RakuSpaの人気さにビビる
+- RakuSpaネットはやい
+- @kojiroはある意味快適にRakuspaで過ごしていた
+- 途中業務が入った
+- 時間の流れがなぜか早かった
+- よるはちゃんこ鍋
+- なぶち、ダイエットのためにごはんを断固たる決意で断つことを宣言
+- なぶちはpythonがわかってきたらしい
+- Ninjaはkoiki generatorに感動していた
+- Fujiiはcssに相変わらずいそしむ
+- Fujiiあまりに眠くて、帰りに反対電車に乗ろうとする、ninja巻き込む、nabはおれたちを見捨てて素早く帰路へ
+- もうすぐでkoiki一周年
+- なぶちは太ったおじさん
+- pythonはいい言語だとは今となっては思え無い by nab
+- NinjaはNinja担当 by nab
+- Twitterに生意気なこというのは、担当じゃなくてもやります by nab
 
 ## Wishlist
 - amam
