@@ -105,6 +105,7 @@
 - @kojiroは寝てそう->寝てた
 - 朝ごはんはtokyo soup stock
 - RakuSpaの人気さにビビる
+- RakuSpa快適、温泉最高、レンタルスペース安い
 - RakuSpaネットはやい
 - @kojiroはある意味快適にRakuspaで過ごしていた
 - 途中業務が入った
