@@ -151,12 +151,17 @@
 - 結構ぶっ通しで作業できた
 - なぶちは一覧画面担当
 - なぶちはライブを優先(16:30退社
+- なぶちが出した唯一のpull requestをsideloadがreject
+- 会場が揺れんばかりの騒ぎに
+- なぜならESLintで1106行のエラーがあったから、、
+- なぶち「declineされてる！ひどい！( ´△｀)」
 - 登録、更新はninjaが担当
 - Datepicker,Suggestはsideroadが担当
 - その他もろもろのhtml,css周りをfujiiが担当
 - APIをshinoda-sanが担当
 - 終わると思ってたのにやっぱり終わらなかった
 - 夜はジンギスカンの予定
+- ジンギスカン美味しかった＋なんかめっちゃ安かった（しろくま
 
 ## Wishlist
 - amam
