@@ -84,7 +84,10 @@
 
 ### Tenth Koiki(10/01-10/02)
 禅ハック
-- will update
+- 面白いことは書いてないけど
+- http://takahiro-fujii.hatenablog.com/entry/2016/10/04/201508
+- http://takahiro-fujii.hatenablog.com/entry/2016/10/08/200607
+- を参照されたし
 
 ### Eleventh Koiki(11/02-11/03)
 パセラ
