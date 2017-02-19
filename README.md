@@ -169,7 +169,7 @@
 ### Sixteenth(2/04-2/05)
 Yahoo hack day 2017
 
-### Seventeenth(02/18)
+### Seventeenth(02/19)
  - 久しぶりのなぶち家
  - amamはsigureに進化しました。
  - 241は久しぶりの定時到着！
