@@ -221,8 +221,6 @@ Yahoo hack day 2017
  - mc sushi
  
 ## Wishlist
-- amam
-- spot4u
 - Machine learning - watson
 - portfolio
 - IoT
@@ -230,3 +228,4 @@ Yahoo hack day 2017
 - Chat system
 - chaus - API development
 - monstera - Event organizer
+- Sushi Bot
