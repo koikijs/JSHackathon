@@ -255,6 +255,15 @@ Yahoo hack day 2017
  - taka66は結婚式の二次会で途中退出
  - taka66「この日にキャメロットで二次会はありえないでしょw」
 
+## 22th (11/25) (sideroad,taka66,ninja)
+ - nabnab「25は予定が、、、ごめんなさい；；」、nabnabに対しての阿鼻叫喚の中、ナのゲシュタルト崩壊始まる！
+ - ２回目のYahoo! LODGE
+ - 10時半集合なのに田園都市線が止まり、11時過ぎくらいにみんな到着
+ - お昼ご飯は榮林！
+ - taka66は夕方くらいまで炎上中のお仕事に専念する
+ - APIをherokuにデプロイ完了！
+ - フロントとAPIの結合が始まる！
+
 ## Wishlist
 - Machine learning - watson
 - portfolio
