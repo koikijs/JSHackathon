@@ -263,6 +263,15 @@ Yahoo hack day 2017
  - taka66は夕方くらいまで炎上中のお仕事に専念する
  - APIをherokuにデプロイ完了！
  - フロントとAPIの結合が始まる！
+ 
+### Remote (12/2-3) (sideroad,ninja)
+ - 前回走り出したkyodenへのキーストロークが留まることを知らず、remote小粋
+ - ブロードキャストではなくマルチキャストだった
+ - 計算バグではなく、sideroadの入れたデータが不正だったことが判明
+ - taka66が実際の飲み会でテスト
+ - 単純な割り勘には向いてないことが判明
+ - loading はPH2で。
+ - PH1完成。初めてのちゃんとしたアプリはremoteにより完遂
 
 ## Wishlist
 - Machine learning - watson
