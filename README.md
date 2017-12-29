@@ -273,6 +273,15 @@ Yahoo hack day 2017
  - loading はPH2で。
  - PH1完成。初めてのちゃんとしたアプリはremoteにより完遂
 
+### 24th (12/28) (sideroad,taka66,ninja,nabnab)
+- nabnab「あれ、明日でカレンダー入ってる、、、」、そして沈黙へ
+- WFA（Work From Ants-office）
+- ゴリラコーヒーで朝食
+- アリンコオフィスでは基本仕事する
+- nabnab、夜ご飯から参加へしかし、、
+- nabnab「恵比寿着いて歩いてます、ちょい遅れます！」、安定の遅刻！
+- 夜ご飯は米福！
+
 ## Wishlist
 - Machine learning - watson
 - portfolio
