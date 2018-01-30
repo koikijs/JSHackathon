@@ -290,6 +290,7 @@ Yahoo hack day 2017
 - 栄琳の安定感と信頼感
 
 ### 26th (1/20) (sideroad, ninja, nabuchi, da-shino, taka66)
+- だいたい遅刻。遅刻担当も安定の遅刻。
 - くそみたいな話が発生した結果、taka66が出遅れる（今期最大のネタ）
 - くそみたいな話が発生した結果、da-shinoも出遅れる（工事の日取り）
 - da-shino: dancer-vim, nabuchi: dancer-webに配属先が決まる
