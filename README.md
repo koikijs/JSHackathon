@@ -282,12 +282,24 @@ Yahoo hack day 2017
 - nabnab「恵比寿着いて歩いてます、ちょい遅れます！」、安定の遅刻！
 - 夜ご飯は米福！
 
-## Wishlist
-- Machine learning - watson
-- portfolio
-- IoT
-- Chat Bot - karakuri
-- Chat system
-- chaus - API development
-- monstera - Event organizer
-- Sushi Bot
+### 25th (1/6) (sideroad, taka66, ninja)
+- beepro kick off. ninjaの提案により、minproからbeeproに名称変更
+- 蜂に類推する言葉でメタファを定義してたら、無駄に蜂に詳しくなる
+- 中二的な名前決めが白熱した結果、隠語の会話が繰り広げられる
+- 大方の配属先が決まる。(honeycomb: sideroad, dancer-atom: taka66, dancer-intelij: ninja)
+- 栄琳の安定感と信頼感
+
+### 26th (1/20) (sideroad, ninja, nabuchi, da-shino, taka66)
+- くそみたいな話が発生した結果、taka66が出遅れる（今期最大のネタ）
+- くそみたいな話が発生した結果、da-shinoも出遅れる（工事の日取り）
+- da-shino: dancer-vim, nabuchi: dancer-webに配属先が決まる
+- nabeeの発音方法がきまる。カレーではない。ナと ビーの音程は 離散値
+- なぶちの　iPhoneがずっとフォンフォンいってる
+- honeycomb繋いだ時の鳴き声（ナビ〜）はnabuchiが声優に抜擢される
+- Lodgeビル内にも結構いい御飯処があることに気づく
+- 昼は中華バル
+- KIVAのカフェインが強過ぎて　ninjaのおしっこがとまらない
+- potatemanが大画面でもプレイできることが保証される。初の４人同時プレイ
+
+## Projects
+https://github.com/koikijs/koikijs/projects/1
