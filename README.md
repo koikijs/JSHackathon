@@ -16,6 +16,10 @@
 @sideroad
 - API係
 
+@isao
+
+@nagi
+
 
 ## Minutes
 
