@@ -333,5 +333,8 @@ Yahoo hack day 2017
 - D:メンバープロフィール、イベント作成、イベント終了後画面はisao
 - E:コンテンツサーチ1はnagi
 
+### 29th (2019/03/06) (sideroad, ninja, isao, nagi, taka66, nabuchi)
+- それはない！！！
+
 ## Projects
 https://github.com/koikijs/koikijs/projects/1
