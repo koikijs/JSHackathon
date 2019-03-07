@@ -345,6 +345,9 @@ Yahoo hack day 2017
 - 一人550円はまじで安い
 - sideroadめっっちゃすすんでる
 - ctoはコード汚い(nabnab
+- chatからイベント作れてもいいんじゃ?
+    - -> イベント作成画面いらなくね? -> 作ったもののEditのためにはあった方がいいが、新規作成画面としてはいらないかも。
+    - -> chatのメッセージの構造をもっとリッチにしてBotがParseしやすいようにしたい
 
 ## Projects
 https://github.com/koikijs/koikijs/projects/1
