@@ -322,7 +322,7 @@ Yahoo hack day 2017
 - understandではブレストした,初参加ながら安定感抜群のisaoのファリシテート
 - defineではアイデアまとめた,ninjaのファリシテートよかった
 - sketchのクレイジー8は半端ない
-- クレイジー8はtooクレイジー(sideroa)
+- クレイジー8はtooクレイジー(sideroad)
 - これやったら脳トレになりそう
 - みんなのアイデアが全然違くて競合にならなかった
 - ので、みんなでヒートマップした
@@ -334,7 +334,17 @@ Yahoo hack day 2017
 - E:コンテンツサーチ1はnagi
 
 ### 29th (2019/03/06) (sideroad, ninja, isao, nagi, taka66, nabuchi)
-- それはない！！！
+- それはない！！！ <- なにいってるかわからない
+- sideroad, ninja, taka66は反骨の精神で開始前にあごだしラーメンを食す
+- 故に、今回ピザを発注していない
+- isao、nagi,まじでごめん
+- prototypeしました
+- 以外とみんなに差はありませんでした
+- なぶちが最後にきました
+- 書いてみるの難しい
+- 一人550円はまじで安い
+- sideroadめっっちゃすすんでる
+- ctoはコード汚い(nabnab
 
 ## Projects
 https://github.com/koikijs/koikijs/projects/1
