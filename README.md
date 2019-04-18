@@ -350,9 +350,10 @@ Yahoo hack day 2017
     - -> chatのメッセージの構造をもっとリッチにしてBotがParseしやすいようにしたい
     
     
-### 30th (2019/04/18) (sideroad, ninja, isao, ...)
+### 30th (2019/04/18) (sideroad, ninja, isao, nagi
 - ラーメン たかはし いさお抜きの恐れ
     - 蓋を開ければ、ロンリータカハシ
+- taka66, 初の不参加(!!)
 
 ## Projects
 https://github.com/koikijs/koikijs/projects/1
