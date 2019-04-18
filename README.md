@@ -23,7 +23,7 @@
 
 ## Minutes
 
-### First Koiki(12/21)
+### First Koiki(2015/12/21)
 上野
 １１時〜
 
@@ -32,7 +32,7 @@
 - はまりつつもReact書き始められるようになる。
 - taka66は終始HTML、CSS、アイコン作成
 
-### Second Koiki(12/29)
+### Second Koiki(2015/12/29)
 渋谷
 - だいたい遅刻
 - 電源とWifi探しに翻弄
@@ -40,7 +40,7 @@
 - taka66は終始HTML、CSS、アイコン作成
 - 飯はホルモン焼き肉
 
-### Third Koiki(2/11)
+### Third Koiki(2016/2/11)
 二子玉　蔦屋家電
 - だいたい遅刻
 - 席探しに翻弄
@@ -49,7 +49,7 @@
 - sideroadはpotate復活に奮起
 - お昼に焼き肉ランチ
 
-### Forth Koiki(3/3)
+### Forth Koiki(2016/3/3)
 二子玉　蔦屋家電（平日夜開催）
 - 席探しに翻弄
 - taka66それがダメだったら僕はダメです
@@ -58,46 +58,46 @@
 - nabnabはすごい進んだ
 - 飯はおしおでお好み焼き
 
-### Fifth Koiki(4/20)
+### Fifth Koiki(2016/4/20)
 三軒茶屋　飯田家(平日夜開催）
 - スペアリブ
 - 手が汚れてコーディング出来ない不具合が判明
 - みんなあんま進まなかった
 
-### Sixth Koiki(5/6)
+### Sixth Koiki(2016/5/6)
 蔦屋家電（平日夜開催）
 - ninja-incとnabnabがCORS周りでハマる
 - 貝食べた
 
-### Seventh Koiki(5/7)
+### Seventh Koiki(2016/5/7)
 高津　名渕家(休日開催)
 - 飯田くんがmacが冷えない限り僕の体は冷えません
 
-### Eighth Koiki(6/18)
+### Eighth Koiki(2016/6/18)
 高津　名渕家（休日開催）
 - 自由すぎるとみんな来ない
 - 深いですね。本当の黒色は存在しない(by Iida)
 - あらゆる曲線はベジエ曲線で書ける
 - 僕は今日眠いです(Fuii)
 
-### Ninth Koiki(9/13)
+### Ninth Koiki(2016/9/13)
 蔦屋家電
 - 禅ハッカソン申し込み←ちょっと高い
 - karakuriにjsモード、shellモード搭載
 - karakuriのnab putの権限管理機能が追加
 
-### Tenth Koiki(10/01-10/02)
+### Tenth Koiki(2016/10/01-10/02)
 禅ハック
 - 面白いことは書いてないけど
 - http://takahiro-fujii.hatenablog.com/entry/2016/10/04/201508
 - http://takahiro-fujii.hatenablog.com/entry/2016/10/08/200607
 - を参照されたし
 
-### Eleventh Koiki(11/02-11/03)
+### Eleventh Koiki(2016/11/02-11/03)
 パセラ
 - will update
 
-### Twelfth Koiki(11/14)
+### Twelfth Koiki(2016/11/14)
 レンタルスペース
 - キャンディメルツ溶けない問題
 - スライム作成対応に追われる
@@ -106,7 +106,7 @@
 - 名渕議事録担当更迭
 - 名渕遅刻担当に就任
 
-### Thirteenth(12/04)
+### Thirteenth(2016/12/04)
 - 遅刻担当は遅刻。悪びれるそぶりもない。
 - Ninjaの移動スピードが早すぎて武蔵溝ノ口改札にて落ち合えず
 - @kojiroは寝てそう->寝てた
@@ -129,7 +129,7 @@
 - NinjaはNinja担当 by nab
 - Twitterに生意気なこというのは、担当じゃなくてもやります by nab
 
-### Fourteenth(12/22)
+### Fourteenth(2016/12/22)
 - 三茶のジビエ料理屋にて行われた忘年会
 - codingはしていない
 - ninjaのspa実装するにあたっての苦悩が語られる
@@ -143,7 +143,7 @@
 - なぶちはお米を食べないことを"強く"宣言
 - なぶちはランニングを続けることを宣言
 
-### Fifteenth(1/28)
+### Fifteenth(2017/1/28)
 - Yahooの新オフィスに 併設されているlodgeにて作業
 - https://lodge.yahoo.co.jp/
 - shinoda-sanもついに参戦
@@ -170,10 +170,10 @@
 - 夜はジンギスカンの予定
 - ジンギスカン美味しかった＋なんかめっちゃ安かった（しろくま
 
-### Sixteenth(2/04-2/05)
+### Sixteenth(2017/2/04-2/05)
 Yahoo hack day 2017
 
-### Seventeenth(02/19)
+### Seventeenth(2017/02/19)
  - 久しぶりのなぶち家
  - amamはsigureに進化しました。
  - 241は久しぶりの定時到着！
@@ -201,7 +201,7 @@ Yahoo hack day 2017
  - 同期といっても色々な形がある
  - 美味しかった安かった！！
  
- ### Eighteenth(03/12)
+ ### Eighteenth(2017/03/12)
  - 定番のなぶち家
  - 無遅刻！
  - 朝ごはんはかきあげそば
@@ -214,7 +214,7 @@ Yahoo hack day 2017
  - 大辛頼んだけど、まだいける。次回はNinjaと激辛チャレンジ
  - なぶちの家はトイレがどれだかわかりにくい
 
- ### Nineteenth(06/11)
+ ### Nineteenth(2017/06/11)
  - なぶち家ファイナル
  - なぶちsひゃわーを浴びる
  - なぶち * 幼女
@@ -231,7 +231,7 @@ Yahoo hack day 2017
  - いいだ「なぶちさんとイチャイチャできると思ってました」
  - いいだ「それなのに会社をやめられて、、、」
 
-### KOICAM 20th (09/23-24)
+### KOICAM 20th (2017/09/23-24)
  - リスケに次ぐリスケで遂に開催！
  - sushi参戦
  - nabnab, koji-inoue 安定の遅刻
@@ -251,7 +251,7 @@ Yahoo hack day 2017
  - 翌日温泉
  - 帰りの東名高速も安定の渋滞
 
-### 21th (10/28)
+### 21th (2017/10/28)
  - nabnab「ごめんなさい明日行けなってしまい、、、」、そしてサイレントモード突入
  - ninja宅で開催
  - sigureプロジェクトフリーズ
@@ -261,7 +261,7 @@ Yahoo hack day 2017
  - taka66は結婚式の二次会で途中退出
  - taka66「この日にキャメロットで二次会はありえないでしょw」
 
-### 22th (11/25) (sideroad,taka66,ninja)
+### 22th (2017/11/25) (sideroad,taka66,ninja)
  - nabnab「25は予定が、、、ごめんなさい；；」、nabnabに対しての阿鼻叫喚の中、ナのゲシュタルト崩壊始まる！
  - ２回目のYahoo! LODGE
  - 10時半集合なのに田園都市線が止まり、11時過ぎくらいにみんな到着
@@ -270,7 +270,7 @@ Yahoo hack day 2017
  - APIをherokuにデプロイ完了！
  - フロントとAPIの結合が始まる！
  
-### Remote (12/2-3) (sideroad,ninja)
+### Remote (2017/12/2-3) (sideroad,ninja)
  - 前回走り出したkyodenへのキーストロークが留まることを知らず、remote小粋
  - ブロードキャストではなくマルチキャストだった
  - 計算バグではなく、sideroadの入れたデータが不正だったことが判明
@@ -279,7 +279,7 @@ Yahoo hack day 2017
  - loading はPH2で。
  - PH1完成。初めてのちゃんとしたアプリはremoteにより完遂
 
-### 24th (12/28) (sideroad,taka66,ninja,nabnab)
+### 24th (2017/12/28) (sideroad,taka66,ninja,nabnab)
 - nabnab「あれ、明日でカレンダー入ってる、、、」、そして沈黙へ
 - WFA（Work From Ants-office）
 - ゴリラコーヒーで朝食
@@ -288,14 +288,14 @@ Yahoo hack day 2017
 - nabnab「恵比寿着いて歩いてます、ちょい遅れます！」、安定の遅刻！
 - 夜ご飯は米福！
 
-### 25th (1/6) (sideroad, taka66, ninja)
+### 25th (2018/1/6) (sideroad, taka66, ninja)
 - beepro kick off. ninjaの提案により、minproからbeeproに名称変更
 - 蜂に類推する言葉でメタファを定義してたら、無駄に蜂に詳しくなる
 - 中二的な名前決めが白熱した結果、隠語の会話が繰り広げられる
 - 大方の配属先が決まる。(honeycomb: sideroad, dancer-atom: taka66, dancer-intelij: ninja)
 - 栄琳の安定感と信頼感
 
-### 26th (1/20) (sideroad, ninja, nabuchi, da-shino, taka66)
+### 26th (2018/1/20) (sideroad, ninja, nabuchi, da-shino, taka66)
 - だいたい遅刻。遅刻担当も安定の遅刻。
 - くそみたいな話が発生した結果、taka66が出遅れる（今期最大のネタ）
 - くそみたいな話が発生した結果、da-shinoも出遅れる（工事の日取り）
