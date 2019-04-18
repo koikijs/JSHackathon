@@ -348,6 +348,11 @@ Yahoo hack day 2017
 - chatからイベント作れてもいいんじゃ?
     - -> イベント作成画面いらなくね? -> 作ったもののEditのためにはあった方がいいが、新規作成画面としてはいらないかも。
     - -> chatのメッセージの構造をもっとリッチにしてBotがParseしやすいようにしたい
+    
+    
+### 30th (2019/04/18) (sideroad, ninja, isao, ...)
+- ラーメン たかはし いさお抜きの恐れ
+    - 蓋を開ければ、ロンリータカハシ
 
 ## Projects
 https://github.com/koikijs/koikijs/projects/1
