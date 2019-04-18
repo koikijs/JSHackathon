@@ -354,6 +354,12 @@ Yahoo hack day 2017
 - ラーメン たかはし いさお抜きの恐れ
     - 蓋を開ければ、ロンリータカハシ
 - taka66, 初の不参加(!!)
+- 今日はもくもく会
+    - ninja : Elasticsearchでゴニョゴニョ
+    - isao : chat/communityのテストデータ作ってみた
+        - ninjaが「chat messageを解析してラベルづけできるんじゃないか」というDaniel-sanのメッセージを受信
+    - nagi : vuejs+vuetifyでゴニョゴニョ
+    - sideroad : kijimunaでゴニョゴニョ
 
 ## Projects
 https://github.com/koikijs/koikijs/projects/1
