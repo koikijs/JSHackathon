@@ -357,6 +357,7 @@ Yahoo hack day 2017
 - sideroad 家のPCを忘れて実力ないままProttのデザイン
 - sideroad画像を上げる作業の中で１ファイル下のものも、もし選んでたら死ぬという恐怖にかられる
 - nabnab, 19時間遅れるらしい
+- nabnab, 開始間に合わなさそう → 後一時間遅れます → サイレントモード突入
 - 今日はもくもく会
     - ninja : Elasticsearchでゴニョゴニョ
     - isao : chat/communityのテストデータ作ってみた
