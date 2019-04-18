@@ -365,5 +365,6 @@ Yahoo hack day 2017
     - nagi : vuejs+vuetifyでゴニョゴニョ
     - sideroad : kijimunaでゴニョゴニョ
  - 最後にみんなの進捗と経過を共有
+ - 議事録に年を追加した結果、4年経ってる事が判明。
 ## Projects
 https://github.com/koikijs/koikijs/projects/1
