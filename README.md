@@ -354,6 +354,8 @@ Yahoo hack day 2017
 - ラーメン たかはし いさお抜きの恐れ
     - 蓋を開ければ、ロンリータカハシ
 - taka66, 初の不参加(!!)
+- sideroad 家のPCを忘れて実力ないままProttのデザイン
+- sideroad画像を上げる作業の中で１ファイル下のものも、もし選んでたら死ぬという恐怖にかられる
 - nabnab, 19時間遅れるらしい
 - 今日はもくもく会
     - ninja : Elasticsearchでゴニョゴニョ
@@ -361,6 +363,6 @@ Yahoo hack day 2017
         - ninjaが「chat messageを解析してラベルづけできるんじゃないか」というDaniel-sanのメッセージを受信
     - nagi : vuejs+vuetifyでゴニョゴニョ
     - sideroad : kijimunaでゴニョゴニョ
-
+ - 最後にみんなの進捗と経過を共有
 ## Projects
 https://github.com/koikijs/koikijs/projects/1
