@@ -424,5 +424,12 @@ Yahoo hack day 2017
     - sideroad : kijimunaでゴニョゴニョ
  - 最後にみんなの進捗と経過を共有
  - 議事録に年を追加した結果、4年経ってる事が判明。
+ 
+### 3?th (2019/12/20) (sideroad, ninja, isao, nagi, fujii, inoue)
+- 忘年会
+- なぶちこない
+- なぶちこない
+- いのうえ「あいつただ輸入してるだけですよ」
+
 ## Projects
 https://github.com/koikijs/koikijs/projects/1
