@@ -424,12 +424,30 @@ Yahoo hack day 2017
     - sideroad : kijimunaでゴニョゴニョ
  - 最後にみんなの進捗と経過を共有
  - 議事録に年を追加した結果、4年経ってる事が判明。
- 
-### 3?th (2019/12/20) (sideroad, ninja, isao, nagi, fujii, inoue)
+
+### KOICAM 31th (2019/07/11 ~ 2019/07/14)
+- ３分隊で現地集合
+- Team.A Iida, Nabuchi
+- Team.B Fujii, Inoue, Yokomichi
+- Team.C Babata
+
+### 32th (2019/12/20) (sideroad, ninja, isao, nagi, fujii, inoue)
 - 忘年会
 - なぶちこない
 - なぶちこない
 - いのうえ「あいつただ輸入してるだけですよ」
+
+### IMAHAN 33th (2020/01/23)
+- Babata, Fujii, Yokomichi
+- お高い肉を食らう。すきやきってこんなに美味かったっけ？
+- 後半辛いがBabata氏の胃袋の強さに感銘を受ける
+
+### Koiki Study Session 34th (2021/02/27)
+- めちゃくちゃ久しぶりにちゃんとした勉強会を開催
+- なぶちの伝説セッションに総取りされる（風俗通いだった僕が結婚に至るまで）
+- コンテンツに関しては嫁に事前承認がおりている
+- 1時間52分もの長編
+- どのコースを堪能したかに関してはレビューが通っていなかった
 
 ## Projects
 https://github.com/koikijs/koikijs/projects/1
